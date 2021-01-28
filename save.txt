@@ -1,0 +1,1 @@
+C:/Program Files/Sublime Text 3/sublime_text.exe,C:/Program Files/Rainmeter/SkinInstaller.exe,C:/xampp/xampp_start.exe,
